@@ -37,7 +37,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1692725610,
-        "narHash": "sha256-ocG4n2x4Kv9BxVXCUlPAfc2RXQvxxl/ABSZ0xl4WuZE=",
+        "narHash": "sha256-wckHOL/FX1NSqOhNviHEsAwNJ9kBRKvY0wSXQzH3twI=",
         "owner": "amaranth-lang",
         "repo": "amaranth-boards",
         "rev": "91ffa38e788a691464a6873d44537eece72ef76e",
@@ -53,7 +53,7 @@
       "flake": false,
       "locked": {
         "lastModified": 1692725502,
-        "narHash": "sha256-t66oXE5aTEqrDZ1EyBN8lkRSrV6dc2XLP2+KLpAo99Q=",
+        "narHash": "sha256-QhIYebDD0YBpgNmeV22aG8OW0dWUQrrFFoKFw1v2h6M=",
         "owner": "amaranth-lang",
         "repo": "amaranth-stdio",
         "rev": "bb39058bd956cf89379c7cde9404998476470a07",

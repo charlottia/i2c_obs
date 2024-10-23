@@ -2,6 +2,10 @@
 
 I²C, oh! Big stretch.
 
+**pls note**: this relies on [hdx](https://github.com/charlottia/hdx), which is
+kinda bulky and old and I don't recommend building it -- it'll build half of
+nixpkgs.
+
 ## Usage
 
 The only board this is configured to run with right now is the iCEBreaker, but

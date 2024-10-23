@@ -8,7 +8,6 @@
       flake = false;
     };
     hdx.url = github:charlottia/hdx;
-    hdx.inputs.amaranth.url = github:charlottia/amaranth?ref=wip;
   };
 
   outputs = inputs @ {
